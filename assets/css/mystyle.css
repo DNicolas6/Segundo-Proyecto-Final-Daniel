@@ -1,0 +1,13 @@
+#fondo-principal{
+    background-image: url(/assets/img/Fondos/fondo-extra.jpg);
+    height: 50em;
+}
+
+#fondo-introduccion{
+    background-image: url(/assets/img/Fondos/fondo-breve.jpg);
+}
+
+.fondo-negro{
+    background-image: url(/assets/img/Fondos/fondo-negro.jpg);
+}
+
